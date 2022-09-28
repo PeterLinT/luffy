@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'luffymall.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        "HOST": "127.0.0.1",
+        "PORT": 3306,
+        "USER": "root",
+        "PASSWORD": "",
+        "NAME": "luffy",
     }
 }
 
@@ -169,4 +173,9 @@ LOGGING = {
             'propagate': True, # 是否让日志信息继续冒泡给其他的日志处理系统
         },
     }
+}
+
+REST_FRAMEWORK = {
+    # 异常处理
+    'EXCEPTION_HANDLER': 'luffyapi.utils.exceptions.custom_exception_handler',
 }

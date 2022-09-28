@@ -4,3 +4,4 @@ INFO 2022-09-20 14:48:53,090 basehttp 161 "GET /static/admin/css/fonts.css HTTP/
 INFO 2022-09-20 14:48:53,220 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
 INFO 2022-09-20 14:48:53,221 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
 INFO 2022-09-20 14:48:53,222 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-09-20 15:25:45,346 autoreload 637 Watching for file changes with StatReloader
