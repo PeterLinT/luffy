@@ -6,11 +6,11 @@
             <router-link to="/"><img src="/static/image/logo.svg" alt=""></router-link>
           </div>
           <ul class="nav full-left">
-              <li><span>免费课</span></li>
-              <li><span>轻课</span></li>
-              <li><span>学位课</span></li>
-              <li><span>题库</span></li>
-              <li><span>老男孩教育</span></li>
+              <li v-for="nav in nav_list">
+                <span v-if="nav.is_site"><a :href="nav.link">{{nav.title}}</a></span>
+                <span v-else><router-link :to="nav.link">{{nav.title}}</router-link></span>
+              </li>
+
           </ul>
           <div class="login-bar full-right">
             <div class="shop-cart full-left">
@@ -33,8 +33,22 @@
       name: "Header",
       data(){
         return{
+          nav_list: [],
         }
       },
+      created() {
+        this.get_nav()
+      },
+      methods:{
+        get_nav(){
+          this.$axios.get(`${this.$settings.HOST}/nav/header/`,{})
+          .then(res=>{
+            this.nav_list = res.data
+          }).catch(err=>{
+            console.log(err)
+          })
+        }
+      }
     }
 </script>
 

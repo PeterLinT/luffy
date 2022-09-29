@@ -1,6 +1,9 @@
 # -*- coding:utf-8 -*-
 from django.urls import path
-from .views import BannerListAPIview
+from . import views
+
 urlpatterns = [
-    path(r'banner/', BannerListAPIview.as_view())
+    path(r'banner/', views.BannerListAPIview.as_view()),
+    path("nav/header/", views.NavHeaderListAPIView.as_view()),
+    path("nav/footer/", views.NavFooterListAPIView.as_view()),
 ]

@@ -35,10 +35,11 @@ ALLOWED_HOSTS = [
 
 # Application definition
 # CORS组的配置信息
-CORS_ORIGIN_WHITELIST = (
-    'http://luffy.luffycity.top:8080',
-)
-CORS_ALLOW_CREDENTIALS = False  # 允许ajax跨域请求时携带cookie
+# CORS_ORIGIN_WHITELIST = (
+#     'https://luffy.luffycity.top:8080',
+# )
+CORS_ORIGIN_ALLOW_ALL = True
+CORS_ALLOW_CREDENTIALS = True  # 允许ajax跨域请求时携带cookie
 
 INSTALLED_APPS = [
     'django.contrib.admin',

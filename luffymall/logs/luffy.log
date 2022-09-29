@@ -208,3 +208,222 @@ INFO 2022-09-29 15:06:50,183 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\
 INFO 2022-09-29 15:06:52,542 autoreload 637 Watching for file changes with StatReloader
 INFO 2022-09-29 15:06:59,564 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\models.py changed, reloading.
 INFO 2022-09-29 15:07:01,202 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 15:08:52,851 basehttp 161 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 25048
+INFO 2022-09-29 15:08:52,869 basehttp 161 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2022-09-29 15:08:52,887 basehttp 161 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2022-09-29 15:08:52,889 basehttp 161 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2022-09-29 15:08:52,893 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:09:43,843 basehttp 161 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:09:43,919 basehttp 161 "GET /xadmin/home/banner/1/update/ HTTP/1.1" 200 25959
+INFO 2022-09-29 15:09:43,949 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:09:44,001 basehttp 161 "GET /media/banner/banner1.png HTTP/1.1" 200 99518
+INFO 2022-09-29 15:09:47,724 basehttp 161 "POST /xadmin/home/banner/1/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:09:47,800 basehttp 161 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 25436
+INFO 2022-09-29 15:09:47,823 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:10:06,995 basehttp 161 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:10:07,070 basehttp 161 "GET /xadmin/home/banner/add/ HTTP/1.1" 200 25499
+INFO 2022-09-29 15:10:07,102 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:10:30,842 basehttp 161 "POST /xadmin/home/banner/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:10:30,900 basehttp 161 "GET /xadmin/home/banner/ HTTP/1.1" 200 34406
+INFO 2022-09-29 15:10:30,927 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:10:38,393 basehttp 161 "GET /banner HTTP/1.1" 301 0
+INFO 2022-09-29 15:10:38,408 basehttp 161 "GET /banner/ HTTP/1.1" 200 5846
+INFO 2022-09-29 15:11:54,915 basehttp 161 "GET /xadmin/ HTTP/1.1" 200 19271
+INFO 2022-09-29 15:11:54,946 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:11:56,591 basehttp 161 "GET /xadmin/home/banner/ HTTP/1.1" 200 34006
+INFO 2022-09-29 15:11:56,616 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:11:58,916 basehttp 161 "GET /xadmin/home/banner/3/update/ HTTP/1.1" 200 25528
+INFO 2022-09-29 15:11:58,939 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:11:58,983 basehttp 161 "GET /media/banner/banner3.png HTTP/1.1" 200 361097
+INFO 2022-09-29 15:12:02,078 basehttp 161 "POST /xadmin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:12:02,138 basehttp 161 "GET /xadmin/home/banner/ HTTP/1.1" 200 34343
+INFO 2022-09-29 15:12:02,167 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:12:03,179 basehttp 161 "GET /xadmin/home/banner/3/update/ HTTP/1.1" 200 25520
+INFO 2022-09-29 15:12:03,208 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:12:06,666 basehttp 161 "POST /xadmin/home/banner/3/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:12:06,722 basehttp 161 "GET /xadmin/home/banner/ HTTP/1.1" 200 34343
+INFO 2022-09-29 15:12:06,754 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:12:08,860 basehttp 161 "GET /xadmin/home/banner/2/update/ HTTP/1.1" 200 25519
+INFO 2022-09-29 15:12:08,882 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:12:08,919 basehttp 161 "GET /media/banner/banner2.png HTTP/1.1" 200 24322
+INFO 2022-09-29 15:12:12,034 basehttp 161 "POST /xadmin/home/banner/2/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 15:12:12,091 basehttp 161 "GET /xadmin/home/banner/ HTTP/1.1" 200 34343
+INFO 2022-09-29 15:12:12,133 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 15:12:18,822 basehttp 161 "GET /banner/ HTTP/1.1" 200 6145
+INFO 2022-09-29 15:34:36,223 basehttp 161 "GET /banner HTTP/1.1" 301 0
+INFO 2022-09-29 15:35:20,208 basehttp 161 "GET /banner/ HTTP/1.1" 200 6145
+INFO 2022-09-29 15:36:15,475 basehttp 161 "GET /banner HTTP/1.1" 301 0
+INFO 2022-09-29 15:36:15,489 basehttp 161 "GET /banner/ HTTP/1.1" 200 6145
+INFO 2022-09-29 15:39:28,762 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 15:39:45,053 basehttp 161 "GET /banner HTTP/1.1" 301 0
+INFO 2022-09-29 15:40:55,321 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 15:41:03,231 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 15:41:11,731 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 15:43:09,778 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-09-29 15:43:11,417 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 15:43:49,728 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-09-29 15:43:51,601 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 15:43:51,887 basehttp 161 "GET /banner/ HTTP/1.1" 200 6145
+INFO 2022-09-29 15:44:01,001 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 17:42:33,196 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-09-29 17:42:37,842 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 17:42:55,648 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 17:47:50,880 basehttp 161 "GET /media/banner/banner3.png HTTP/1.1" 304 0
+INFO 2022-09-29 17:47:50,881 basehttp 161 "GET /media/banner/banner2.png HTTP/1.1" 200 24322
+INFO 2022-09-29 17:47:50,883 basehttp 161 "GET /media/banner/banner1.png HTTP/1.1" 200 99518
+INFO 2022-09-29 17:47:57,901 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:03:09,584 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\models.py changed, reloading.
+INFO 2022-09-29 21:03:11,784 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:05:25,907 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\models.py changed, reloading.
+INFO 2022-09-29 21:05:27,146 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:06:38,048 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\models.py changed, reloading.
+INFO 2022-09-29 21:06:39,193 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:07:04,109 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\models.py changed, reloading.
+INFO 2022-09-29 21:07:05,705 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:10:00,245 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\serializer.py changed, reloading.
+INFO 2022-09-29 21:10:01,914 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:10:10,176 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\serializer.py changed, reloading.
+INFO 2022-09-29 21:10:11,785 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:11:40,740 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\views.py changed, reloading.
+INFO 2022-09-29 21:11:42,328 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:12:18,569 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\constants.py changed, reloading.
+INFO 2022-09-29 21:12:20,269 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:12:23,511 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\constants.py changed, reloading.
+INFO 2022-09-29 21:12:25,198 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:13:54,335 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\urls.py changed, reloading.
+INFO 2022-09-29 21:13:56,197 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:14:36,258 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\adminx.py changed, reloading.
+INFO 2022-09-29 21:14:37,897 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-09-29 21:14:45,192 log 230 Not Found: /
+WARNING 2022-09-29 21:14:45,193 basehttp 161 "GET / HTTP/1.1" 404 2662
+WARNING 2022-09-29 21:14:45,355 log 230 Not Found: /favicon.ico
+WARNING 2022-09-29 21:14:45,356 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2713
+INFO 2022-09-29 21:14:56,380 basehttp 161 "GET /xadmin/ HTTP/1.1" 200 20039
+INFO 2022-09-29 21:14:56,424 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:14:59,604 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 30328
+INFO 2022-09-29 21:14:59,641 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:15:01,462 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:15:01,495 basehttp 161 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2022-09-29 21:15:01,495 basehttp 161 "GET /static/xadmin/vendor/select2/js/i18n/zh-Hans.js HTTP/1.1" 200 768
+INFO 2022-09-29 21:15:01,497 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:15:01,498 basehttp 161 "GET /static/xadmin/vendor/selectize/js/selectize.js HTTP/1.1" 200 104098
+INFO 2022-09-29 21:15:01,498 basehttp 161 "GET /static/xadmin/vendor/select2/js/select2.js HTTP/1.1" 200 151811
+INFO 2022-09-29 21:15:14,257 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:15:14,310 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 35897
+INFO 2022-09-29 21:15:14,341 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:15:36,053 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:15:36,087 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:15:55,659 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:15:55,737 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 25168
+INFO 2022-09-29 21:15:55,777 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:16:10,831 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:16:10,887 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 37531
+INFO 2022-09-29 21:16:10,917 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:16:24,388 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.is_site.position.orders HTTP/1.1" 200 39932
+INFO 2022-09-29 21:16:24,423 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:16:29,906 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.is_site.position.orders&o=orders HTTP/1.1" 200 40768
+INFO 2022-09-29 21:16:29,941 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:16:32,322 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:16:32,352 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:16:49,923 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:16:49,980 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 38354
+INFO 2022-09-29 21:16:50,009 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:23:59,052 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 222
+INFO 2022-09-29 21:23:59,055 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:23:59,089 basehttp 161 "GET /media/banner/banner2.png HTTP/1.1" 304 0
+INFO 2022-09-29 21:23:59,089 basehttp 161 "GET /media/banner/banner3.png HTTP/1.1" 304 0
+INFO 2022-09-29 21:23:59,089 basehttp 161 "GET /media/banner/banner1.png HTTP/1.1" 304 0
+INFO 2022-09-29 21:24:09,788 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:24:09,788 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 222
+INFO 2022-09-29 21:24:12,042 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:24:12,043 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 222
+INFO 2022-09-29 21:24:13,957 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 222
+INFO 2022-09-29 21:24:13,979 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:24:21,318 basehttp 161 "GET /xadmin/home/nav/1/update/ HTTP/1.1" 200 25013
+INFO 2022-09-29 21:24:21,347 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:24:26,090 basehttp 161 "POST /xadmin/home/nav/1/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:24:26,149 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 38292
+INFO 2022-09-29 21:24:26,168 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:24:43,613 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.is_site.position.orders HTTP/1.1" 200 40835
+INFO 2022-09-29 21:24:43,635 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:24:50,903 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.position.orders HTTP/1.1" 200 39379
+INFO 2022-09-29 21:24:50,925 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:24:56,917 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.position.orders HTTP/1.1" 200 39379
+INFO 2022-09-29 21:24:56,943 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:24:58,674 basehttp 161 "GET /xadmin/home/nav/?_cols=title.link.is_show.position.orders HTTP/1.1" 200 39379
+INFO 2022-09-29 21:24:58,693 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:25:37,635 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\views.py changed, reloading.
+INFO 2022-09-29 21:25:39,295 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:25:39,561 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:25:39,567 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:25:45,062 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\views.py changed, reloading.
+INFO 2022-09-29 21:25:46,675 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:25:47,037 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:25:47,043 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:25:50,002 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:25:50,024 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:25:52,841 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:25:52,851 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:27:40,943 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:27:40,973 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:27:57,641 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:27:57,716 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 25174
+INFO 2022-09-29 21:27:57,745 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:06,838 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 38795
+INFO 2022-09-29 21:28:06,874 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:08,485 basehttp 161 "GET /xadmin/home/nav/5/update/ HTTP/1.1" 200 25041
+INFO 2022-09-29 21:28:08,516 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:10,275 basehttp 161 "POST /xadmin/home/nav/5/update/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:28:10,335 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 39135
+INFO 2022-09-29 21:28:10,371 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:15,414 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:28:15,454 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:40,378 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:28:40,438 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 40018
+INFO 2022-09-29 21:28:40,472 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:28:47,101 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:28:47,138 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:29:38,133 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:29:38,195 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 40843
+INFO 2022-09-29 21:29:38,226 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:29:40,902 basehttp 161 "GET /xadmin/home/nav/add/ HTTP/1.1" 200 24723
+INFO 2022-09-29 21:29:40,938 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:30:01,365 basehttp 161 "POST /xadmin/home/nav/add/ HTTP/1.1" 302 0
+INFO 2022-09-29 21:30:01,434 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 41664
+INFO 2022-09-29 21:30:01,469 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:37:59,543 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:37:59,545 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:39:31,246 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:39:31,249 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:40:16,276 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:40:55,886 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:41:55,937 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:41:55,937 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:41:55,938 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:42:48,926 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:42:48,930 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:42:48,932 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:43:04,909 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:43:04,913 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:43:04,916 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:45:15,168 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:45:15,172 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:45:15,173 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:45:23,248 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:45:23,252 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:45:23,254 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:45:56,882 basehttp 161 "GET /xadmin/home/nav/ HTTP/1.1" 200 41264
+INFO 2022-09-29 21:45:56,904 basehttp 161 "GET /xadmin/jsi18n/ HTTP/1.1" 200 9527
+INFO 2022-09-29 21:46:32,181 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:46:32,185 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:46:32,186 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:46:35,316 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:46:35,321 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:46:35,323 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-09-29 21:49:06,354 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\views.py changed, reloading.
+INFO 2022-09-29 21:49:08,026 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:49:19,967 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\home\views.py changed, reloading.
+INFO 2022-09-29 21:49:21,575 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-09-29 21:49:21,898 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-09-29 21:49:21,905 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-09-29 21:49:21,909 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
