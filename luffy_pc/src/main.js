@@ -4,6 +4,12 @@ import router from './router'
 import settings from "./settings";
 Vue.config.productionTip = false
 Vue.prototype.$settings = settings
+require('video.js/dist/video-js.css')
+require('vue-video-player/src/custom-theme.css')
+import VideoPlayer from 'vue-video-player'
+Vue.use(VideoPlayer);
+// vuex 的 store
+import store from './store/index';
 // element-ui 初始化加载
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
@@ -21,5 +27,6 @@ Vue.prototype.$axios = axios;
 new Vue({
   el: '#app',
   router,
+  store,
   render: h => h(App)
 })
