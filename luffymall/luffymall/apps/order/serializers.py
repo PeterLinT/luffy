@@ -59,7 +59,7 @@ class OrderModelSerializer(serializers.ModelSerializer):
             if end_timestamp < now.timestamp():
                 print(4)
                 raise serializers.ValidationError("对不起，当前优惠券不可用或者不存在！")
-        #  校验购买的商品课程是否存在
+
 
         # 一定要 return 验证结果
         return attrs
@@ -83,8 +83,8 @@ class OrderModelSerializer(serializers.ModelSerializer):
                     order_number=order_number, # 订单号
                     order_status=0,
                     pay_type=validated_data.get("pay_type"),
-                    credit=validated_data.get("pay_type",0),
-                    coupon=validated_data.get("pay_type",0),
+                    credit=validated_data.get("credit",0),
+                    coupon=validated_data.get("coupon",0),
                     order_desc="",
                     user_id=user_id
                 )
@@ -170,6 +170,7 @@ class OrderModelSerializer(serializers.ModelSerializer):
                 credit = validated_data.get("credit")
                 if credit > 0:
                     # 判断积分是否超过订单总价格的折扣比例
+                    print( credit > real_price * int(constants.CREDIT_MONEY))
                     if credit > real_price * int(constants.CREDIT_MONEY):
                         transaction.savepoint_rollback(save_id)
                         raise serializers.ValidationError("对不起，订单生成失败！当前订单中使用的积分超过使用上限！")
@@ -178,12 +179,9 @@ class OrderModelSerializer(serializers.ModelSerializer):
                     order.credit = credit
 
                 order.real_price = real_price
-                # 使用的积分扣除
 
-                user = User.objects.get(pk=user_id)
-                user.credit = user.credit - credit
 
-                user.save()
+
                 order.save()
                 pipe.execute()
             except:

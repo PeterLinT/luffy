@@ -53,3 +53,9 @@ class UserModelSerializers(serializers.ModelSerializer):
         user.save()
 
         return user
+from order.models import Order
+
+class UserOrderModelSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Order
+        fields = ["id","order_number","order_status","created_time","course_list"]

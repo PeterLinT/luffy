@@ -7175,3 +7175,1080 @@ INFO 2022-10-11 02:51:43,294 autoreload 637 Watching for file changes with StatR
 INFO 2022-10-11 02:52:23,896 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
 INFO 2022-10-11 02:52:25,863 autoreload 637 Watching for file changes with StatReloader
 INFO 2022-10-11 02:52:30,836 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-11 02:52:33,119 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 02:52:50,819 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-11 02:52:52,833 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 14:19:39,111 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-11 14:19:41,116 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 14:20:03,963 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:03,968 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:03,969 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-11 14:20:05,235 basehttp 161 "OPTIONS /cart HTTP/1.1" 200 0
+INFO 2022-10-11 14:20:05,239 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:05,240 basehttp 161 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2022-10-11 14:20:05,240 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:05,259 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-11 14:20:06,627 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:06,629 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-11 14:20:06,633 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:06,660 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2280
+INFO 2022-10-11 14:20:08,668 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:08,673 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:08,675 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-11 14:20:08,676 basehttp 161 "GET /course/1/ HTTP/1.1" 200 437
+INFO 2022-10-11 14:20:09,538 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-11 14:20:12,607 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:12,608 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:12,620 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-11 14:20:14,911 basehttp 161 "OPTIONS /coupon/ HTTP/1.1" 200 0
+INFO 2022-10-11 14:20:14,911 basehttp 161 "OPTIONS /cart/order/ HTTP/1.1" 200 0
+INFO 2022-10-11 14:20:14,918 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:14,918 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:14,931 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-11 14:20:14,932 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-11 14:20:24,885 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:24,892 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-11 14:20:24,898 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:24,899 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-11 14:20:36,828 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 14:20:36,837 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-11 14:20:36,842 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 14:20:36,846 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-11 17:15:17,340 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 17:15:19,302 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:30:30,832 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:30:33,102 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:32:45,324 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:32:47,138 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:32:58,340 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:33:00,255 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:33:03,869 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:33:05,757 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:37:18,626 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:37:20,794 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:42:24,443 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:42:26,459 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:43:06,860 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:43:08,744 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:43:52,904 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\urls.py changed, reloading.
+INFO 2022-10-11 20:43:54,744 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-10-11 20:48:46,308 log 230 Method Not Allowed: /payments/alipay/
+WARNING 2022-10-11 20:48:46,309 basehttp 161 "POST /payments/alipay/?order_nameber=20221011023356000001000041 HTTP/1.1" 405 46
+WARNING 2022-10-11 20:48:53,095 log 230 Bad Request: /payments/alipay/
+WARNING 2022-10-11 20:48:53,096 basehttp 161 "GET /payments/alipay/?order_nameber=20221011023356000001000041 HTTP/1.1" 400 44
+ERROR 2022-10-11 20:49:25,875 log 230 Internal Server Error: /payments/alipay/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 26, in get
+    debug = settings.ALIAPY_CONFIG["debug"]  # 默认False
+TypeError: __init__() got an unexpected keyword argument 'app_private_key_path'
+ERROR 2022-10-11 20:49:25,879 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 500 100077
+ERROR 2022-10-11 20:50:26,414 log 230 Internal Server Error: /payments/alipay/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 26, in get
+    debug = settings.ALIAPY_CONFIG["debug"]  # 默认False
+TypeError: __init__() got an unexpected keyword argument 'app_private_key_path'
+ERROR 2022-10-11 20:50:26,417 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 500 100077
+INFO 2022-10-11 20:50:26,620 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:50:28,661 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-10-11 20:50:31,197 log 230 Internal Server Error: /payments/alipay/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 26, in get
+    debug = settings.ALIAPY_CONFIG["debug"]  # 默认False
+TypeError: __init__() got an unexpected keyword argument 'app_private_key_path'
+ERROR 2022-10-11 20:50:31,201 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 500 100077
+INFO 2022-10-11 20:53:58,180 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:54:00,219 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:54:39,816 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:54:41,928 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:54:56,036 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:54:58,056 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-10-11 20:55:05,302 log 230 Internal Server Error: /payments/alipay/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 26, in get
+    debug = settings.ALIAPY_CONFIG["debug"]  # 默认False
+TypeError: __init__() got an unexpected keyword argument 'app_private_key_path'
+ERROR 2022-10-11 20:55:05,307 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 500 100077
+INFO 2022-10-11 20:57:18,593 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 20:57:20,719 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:59:09,339 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-11 20:59:11,131 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 20:59:41,577 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-11 20:59:43,427 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 21:00:07,439 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-11 21:00:09,317 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 21:00:20,643 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-11 21:00:22,567 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 21:00:27,096 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 200 931
+INFO 2022-10-11 21:01:48,697 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 200 919
+INFO 2022-10-11 21:01:49,287 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-11 21:01:51,093 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-11 21:01:54,675 basehttp 161 "GET /payments/alipay/?order_number=20221011023356000001000041 HTTP/1.1" 200 925
+INFO 2022-10-11 21:22:42,698 basehttp 161 "OPTIONS /cart/order/ HTTP/1.1" 200 0
+INFO 2022-10-11 21:22:42,699 basehttp 161 "OPTIONS /coupon/ HTTP/1.1" 200 0
+INFO 2022-10-11 21:22:42,716 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 21:22:42,724 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 21:22:42,724 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-11 21:22:42,746 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-11 21:24:32,102 basehttp 161 "OPTIONS /cart HTTP/1.1" 200 0
+INFO 2022-10-11 21:24:32,106 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 21:24:32,110 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 21:24:32,120 basehttp 161 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2022-10-11 21:24:32,134 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-11 21:24:33,615 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-11 21:24:33,619 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-11 21:24:33,632 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-11 21:24:33,635 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-11 21:24:36,843 basehttp 161 "OPTIONS /order/ HTTP/1.1" 200 0
+INFO 2022-10-11 21:24:36,887 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-11 21:24:36,959 basehttp 161 "GET /payments/alipay/?order_number=20221011212436000001000042 HTTP/1.1" 200 920
+INFO 2022-10-12 01:12:59,192 basehttp 161 "OPTIONS /cart/order/ HTTP/1.1" 200 0
+INFO 2022-10-12 01:12:59,192 basehttp 161 "OPTIONS /coupon/ HTTP/1.1" 200 0
+INFO 2022-10-12 01:13:01,546 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-12 01:13:01,546 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:13:01,546 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:13:06,306 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:13:06,314 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:13:36,027 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 01:13:38,435 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:14:40,195 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 01:14:42,326 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:19:03,972 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 01:19:05,972 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:35:18,764 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-12 01:35:20,898 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:36:27,727 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\urls.py changed, reloading.
+INFO 2022-10-12 01:36:29,856 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:45:39,462 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\user\models.py changed, reloading.
+INFO 2022-10-12 01:45:41,362 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:46:58,488 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 01:47:00,571 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:48:32,822 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 01:48:34,904 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:49:27,953 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:49:27,953 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+ERROR 2022-10-12 01:49:28,339 log 230 Internal Server Error: /payments/alipay/result/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 76, in get
+    signature = data.pop("sign")
+KeyError: 'sign'
+ERROR 2022-10-12 01:49:28,343 basehttp 161 "GET /payments/alipay/result/ HTTP/1.1" 500 101657
+INFO 2022-10-12 01:49:42,852 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:49:42,871 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 01:49:42,911 log 230 Internal Server Error: /payments/alipay/result/
+Traceback (most recent call last):
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\LP\Desktop\workon_env\djangoproject\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py", line 76, in get
+    signature = data.pop("sign")
+KeyError: 'sign'
+ERROR 2022-10-12 01:49:42,914 basehttp 161 "GET /payments/alipay/result/ HTTP/1.1" 500 101657
+INFO 2022-10-12 01:51:55,515 basehttp 161 "OPTIONS /cart HTTP/1.1" 200 0
+INFO 2022-10-12 01:51:55,519 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:51:55,521 basehttp 161 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2022-10-12 01:51:55,522 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:51:55,538 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-12 01:51:57,805 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:51:57,816 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:51:57,816 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-12 01:51:57,841 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2280
+INFO 2022-10-12 01:52:00,488 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:52:00,491 basehttp 161 "GET /course/1/ HTTP/1.1" 200 437
+INFO 2022-10-12 01:52:00,493 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:52:00,510 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-12 01:52:02,068 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-12 01:52:03,531 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:52:03,531 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:52:03,538 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-12 01:52:05,533 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:52:05,533 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:52:05,542 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 01:52:05,546 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-12 01:52:14,254 basehttp 161 "OPTIONS /order/ HTTP/1.1" 200 0
+INFO 2022-10-12 01:52:14,284 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-12 01:52:14,334 basehttp 161 "GET /payments/alipay/?order_number=20221012015214000001000043 HTTP/1.1" 200 924
+INFO 2022-10-12 01:53:44,544 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:53:44,564 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 01:53:44,585 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 01:53:44,588 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x000001DD52BC9DA0>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 01:53:44,589 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 01:53:44,589 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 01:55:05,235 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:55:05,256 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 01:55:05,288 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 01:55:05,290 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x000001DD527580F0>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 01:55:05,290 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 01:55:05,290 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 01:55:10,811 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:55:10,828 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 01:55:10,853 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 01:55:10,854 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x000001DD529F5668>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 01:55:10,855 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 01:55:10,855 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 01:55:37,784 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 01:55:37,803 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 01:55:37,835 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 01:55:37,836 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x000001DD52949898>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 01:55:37,837 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 01:55:37,837 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 01:58:39,656 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 01:58:43,535 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 01:58:43,535 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:03:11,730 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:03:11,771 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:03:30,518 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:03:30,595 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:03:50,523 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:03:50,528 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:04:00,779 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:04:00,785 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 02:04:41,946 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 02:04:41,956 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x000001DC12207BA8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 02:04:41,960 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 02:04:41,960 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 02:04:41,961 basehttp 75 - Broken pipe from ('127.0.0.1', 7292)
+
+ERROR 2022-10-12 02:04:50,504 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+INFO 2022-10-12 02:04:55,753 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:04:55,757 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:05:54,625 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:06:30,880 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:06:30,892 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 02:06:31,011 views 136 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 02:06:31,014 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x00000247B6BAC8D0>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 02:06:31,014 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 02:06:31,015 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 02:15:51,252 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:15:56,226 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:15:56,229 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:19:53,809 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:19:57,778 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:19:57,788 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 02:19:57,910 views 138 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 02:19:57,913 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000021C2E6E8E80>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 02:19:57,913 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 02:19:57,914 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 02:20:14,442 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 02:20:16,408 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-10-12 02:20:17,117 views 138 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 02:20:17,119 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x00000269B645F940>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-12 02:20:17,120 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-12 02:20:17,121 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 507 35
+INFO 2022-10-12 02:20:17,128 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:20:17,135 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:41:52,845 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 02:41:54,760 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:42:02,283 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:42:02,291 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-12 02:42:02,414 views 138 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-12 02:42:02,414 log 230 Internal Server Error: /payments/alipay/result/
+ERROR 2022-10-12 02:42:02,415 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 500 59
+INFO 2022-10-12 02:42:59,865 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 02:43:01,850 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:43:48,668 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-12 02:43:50,699 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:43:51,229 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:43:51,229 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-12 02:43:51,337 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-12 02:43:51,337 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012015214000001000043&method=alipay.trade.page.pay.return&total_amount=960.00&sign=C2pHMMPYsFfphFtu2JsyDBL2RZWgfoQOg1v%2FEhNZjq0JGTGLPxnKPAuu7ReZgwoqIe0Ujs19Nra4LwlpwSSE%2FIZsau9cOelnHO192TidAFdTw3b3ROqxdZXEsAxsXbQpGbYnIqdlDY8ylMM8ZxIAuQR3ikqzMe4DUQxphi%2BY9sK7RlReOqGktu07FuGki52qS7YwV1HHm8hdF%2BXE8PQTxclDlAN9Z2iNZsNPyw0gjxIIkfObHwL6543CIyj90NLiE7RWQw3QMH%2BoVSYrvVnTrC2mTwluqt3eDhMlaPSdPDMMrN%2FqLan6WJbYdjld%2FcCSvoSTaEpJA%2BD4ucx0%2Bpb7VQ%3D%3D&trade_no=2022101222001492890502221140&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2001%3A53%3A40 HTTP/1.1" 400 71
+INFO 2022-10-12 02:44:38,111 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-12 02:44:51,310 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-12 02:44:51,311 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:44:51,320 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:44:51,342 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2280
+INFO 2022-10-12 02:44:53,407 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:44:53,410 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:44:53,411 basehttp 161 "GET /course/3/ HTTP/1.1" 200 409
+INFO 2022-10-12 02:44:53,412 basehttp 161 "GET /course/chapters/?course=3 HTTP/1.1" 200 404
+INFO 2022-10-12 02:44:55,065 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-12 02:44:57,802 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:44:57,806 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:44:57,825 basehttp 161 "GET /cart/ HTTP/1.1" 200 370
+INFO 2022-10-12 02:44:59,387 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:44:59,388 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:44:59,396 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-12 02:44:59,397 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 02:45:09,106 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:45:09,111 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-12 02:45:09,121 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:45:09,129 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 02:45:14,623 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-12 02:45:14,752 basehttp 161 "GET /payments/alipay/?order_number=20221012024514000001000044 HTTP/1.1" 200 918
+INFO 2022-10-12 02:47:00,214 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:00,228 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-12 02:47:00,230 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:02,246 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:02,248 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:02,248 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-12 02:47:03,951 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:03,953 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-12 02:47:03,953 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:03,977 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2280
+INFO 2022-10-12 02:47:04,916 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:04,920 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:04,922 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-12 02:47:04,922 basehttp 161 "GET /course/1/ HTTP/1.1" 200 437
+INFO 2022-10-12 02:47:05,886 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-12 02:47:07,072 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:07,073 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:07,079 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-12 02:47:08,269 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:08,270 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:08,274 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 02:47:08,280 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-12 02:47:32,246 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-12 02:47:32,246 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:32,258 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:32,259 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 02:47:39,969 basehttp 161 "GET /coupon/ HTTP/1.1" 200 508
+INFO 2022-10-12 02:47:39,972 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-12 02:47:39,975 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:47:39,977 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:47:42,538 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-12 02:47:42,590 basehttp 161 "GET /payments/alipay/?order_number=20221012024742000001000045 HTTP/1.1" 200 923
+INFO 2022-10-12 02:48:17,099 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-12 02:48:17,119 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-12 02:48:17,163 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221012024742000001000045&method=alipay.trade.page.pay.return&total_amount=1010.00&sign=op0sK2Tsya%2B2TknsB%2FU%2BUvuT4uA1naLLsHoHHVKoJV%2BjU%2FdK2Burid7w5LBUlRqd3uGLHwXdEhnOPM7ZMvdLFkR1tgLakWVbkFEHf7Zt5W%2BLi7eMgE%2BcBzfiHhAgoXKW%2BcxmGZQMs4n2H45%2BKNCbm%2BvOiITLeh3me0jZeCulxGo4upMvvjnRHQ%2Fq4%2BNN8t%2BoHlQFosdPggBE3XcFvjEH4qlSailgPYHxugkvBxIxqx1FAihmH9e4cFJJPSKgCq7BqShkgJNhB2k62EBM8AGa5Vyqxrk4ufH5kUymncmTQf%2FZsNs5KyhOIAJeWcFpMf0si%2F5BwVn8PIufQiQKgz2X9Q%3D%3D&trade_no=2022101222001492890502221287&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-12%2002%3A48%3A12 HTTP/1.1" 200 29
+INFO 2022-10-13 13:51:32,459 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 13:51:54,105 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-13 13:51:54,106 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 13:51:54,106 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 13:51:54,136 basehttp 161 "GET /media/banner/banner3.png HTTP/1.1" 304 0
+INFO 2022-10-13 13:51:54,136 basehttp 161 "GET /media/banner/banner2.png HTTP/1.1" 304 0
+INFO 2022-10-13 13:51:54,137 basehttp 161 "GET /media/banner/banner1.png HTTP/1.1" 304 0
+INFO 2022-10-13 13:52:06,224 basehttp 161 "OPTIONS /cart HTTP/1.1" 200 0
+INFO 2022-10-13 13:52:06,227 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 13:52:06,227 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 13:52:06,228 basehttp 161 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2022-10-13 13:52:06,247 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-13 13:52:10,634 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 13:52:10,634 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-13 13:52:10,635 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 13:52:27,157 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 13:52:27,157 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 13:52:27,158 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-13 14:19:43,105 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:19:44,936 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:19:53,787 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:19:55,597 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:20:03,181 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:20:04,975 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:20:26,465 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:20:28,270 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:21:03,651 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:21:05,411 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:22:11,034 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:22:12,877 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:24:53,134 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:24:53,136 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 14:24:53,141 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:24:53,169 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 14:24:54,868 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:24:54,868 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:24:54,869 basehttp 161 "GET /course/3/ HTTP/1.1" 200 409
+INFO 2022-10-13 14:24:54,882 basehttp 161 "GET /course/chapters/?course=3 HTTP/1.1" 200 404
+INFO 2022-10-13 14:24:55,967 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 14:24:56,549 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:24:56,555 basehttp 161 "GET /cart/ HTTP/1.1" 200 370
+INFO 2022-10-13 14:24:56,572 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:24:58,751 basehttp 161 "OPTIONS /cart/order/ HTTP/1.1" 200 0
+INFO 2022-10-13 14:24:58,751 basehttp 161 "OPTIONS /coupon/ HTTP/1.1" 200 0
+INFO 2022-10-13 14:24:58,763 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:24:58,763 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:24:58,769 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 14:24:58,781 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 14:25:18,734 basehttp 161 "OPTIONS /order/ HTTP/1.1" 200 0
+INFO 2022-10-13 14:25:18,752 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 14:25:19,037 basehttp 161 "GET /payments/alipay/?order_number=20221013142518000001000046 HTTP/1.1" 200 916
+INFO 2022-10-13 14:25:45,627 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\coupon\views.py changed, reloading.
+INFO 2022-10-13 14:25:47,371 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:25:52,356 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\coupon\views.py changed, reloading.
+INFO 2022-10-13 14:25:54,046 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:26:08,920 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:26:08,926 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 14:26:09,033 views 174 订单结果处理出现故障!无法修改订单相关记录的状态
+INFO 2022-10-13 14:26:09,037 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013142518000001000046&method=alipay.trade.page.pay.return&total_amount=280.00&sign=RX0qnLAOFesGkXIyHGXietGuQIQTCaK9zvH7soum5uIghMJSQ4QHgpUtMc1lnWQtG%2F%2BlHRjcx0NbUfwqqYFlpXY6S3cbpHqeyiSbNuhvnkf4AyaIq%2BiNQQgaQ09Pq5G6e5WVrgdyaESvnGyGOCMOFZCGSU9Ankn%2BPmJZqmWAtD0kdwnJ289KRsubHNbNwT9WU7M%2FvdAU5u0Jc5YE7kVchZ%2F5iBkKd660fB5d578VGWC8IB2GuZTuJi2o4mni6bgEM5U01iZB8bHX%2FH65kGoFs28ZcpscHGnFrMFpANpwI6Vx2aybsg8OiW4O4OR0yfRl%2Fh%2BWeTVkzyoVUv%2F5IPrV3Q%3D%3D&trade_no=2022101322001492890502221815&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2014%3A26%3A05 HTTP/1.1" 200 29
+INFO 2022-10-13 14:28:41,281 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:28:43,040 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:28:43,586 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:28:43,591 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:28:43,604 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-13 14:28:44,367 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:28:44,368 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 14:28:44,380 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:28:44,397 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 14:28:46,958 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:28:46,958 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:28:46,963 basehttp 161 "GET /course/chapters/?course=15 HTTP/1.1" 200 2
+INFO 2022-10-13 14:28:46,964 basehttp 161 "GET /course/15/ HTTP/1.1" 200 396
+INFO 2022-10-13 14:28:49,052 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 14:28:51,234 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:28:51,235 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:28:51,239 basehttp 161 "GET /cart/ HTTP/1.1" 200 213
+INFO 2022-10-13 14:28:52,706 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:28:52,707 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:28:52,714 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 14:28:52,714 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 230
+INFO 2022-10-13 14:28:57,016 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 14:28:57,127 basehttp 161 "GET /payments/alipay/?order_number=20221013142857000001000047 HTTP/1.1" 200 920
+INFO 2022-10-13 14:29:27,729 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:29:27,750 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 14:29:27,771 views 174 订单结果处理出现故障!无法修改订单相关记录的状态
+INFO 2022-10-13 14:29:27,774 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013142857000001000047&method=alipay.trade.page.pay.return&total_amount=361.00&sign=BCeLu3jmF55oqCLT8HicsrWJ9aZREVoZO1xpcmegwnM1GN2RYDwcQYn0Pftd3OMZfQjpWFIDRwFRh5EUW7Sj%2BgKaDmi%2FfqcUtoPJ7UtWvX%2BSuMm%2FPB8ZyjsaCU%2BRUbSYyrq%2FTubFO4QKfeyCFlMvadhbRi4ExN932J8bSQQxLc%2BDq642ptGfDnjk%2BncBrP1CK78fkXDHACQDVQcLer%2BQqTqFfgxPqzvwRJDFuQ5WJQuJaXOPbXcsukJHDvI3li%2B1BLCHEKHKyc1zZerggb1aiekq%2BZxJvBoS08urfotg7sv3Zmk9JBmgn%2FvROBfpEywo8X%2FsJ7TdxflbZjsZcX03bQ%3D%3D&trade_no=2022101322001492890502221816&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2014%3A29%3A24 HTTP/1.1" 200 29
+INFO 2022-10-13 14:32:12,439 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:32:14,170 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:38:12,814 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:38:29,797 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:38:29,801 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:38:30,028 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:38:30,073 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:41:14,340 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:41:16,756 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:41:23,586 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:41:26,042 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:41:32,097 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:41:34,411 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:41:34,412 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:45:51,561 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:45:54,000 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:46:21,800 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:46:25,100 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:46:25,104 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:49:09,223 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:49:11,823 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:51:23,199 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:51:27,586 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:51:27,589 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 14:51:49,594 views 175 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 14:52:01,475 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000024AFBF86CF8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+INFO 2022-10-13 14:52:09,273 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:52:10,468 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:52:10,471 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:55:10,806 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:55:13,287 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:55:24,829 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:55:24,830 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:56:03,357 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013142857000001000047&method=alipay.trade.page.pay.return&total_amount=361.00&sign=BCeLu3jmF55oqCLT8HicsrWJ9aZREVoZO1xpcmegwnM1GN2RYDwcQYn0Pftd3OMZfQjpWFIDRwFRh5EUW7Sj%2BgKaDmi%2FfqcUtoPJ7UtWvX%2BSuMm%2FPB8ZyjsaCU%2BRUbSYyrq%2FTubFO4QKfeyCFlMvadhbRi4ExN932J8bSQQxLc%2BDq642ptGfDnjk%2BncBrP1CK78fkXDHACQDVQcLer%2BQqTqFfgxPqzvwRJDFuQ5WJQuJaXOPbXcsukJHDvI3li%2B1BLCHEKHKyc1zZerggb1aiekq%2BZxJvBoS08urfotg7sv3Zmk9JBmgn%2FvROBfpEywo8X%2FsJ7TdxflbZjsZcX03bQ%3D%3D&trade_no=2022101322001492890502221816&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2014%3A29%3A24 HTTP/1.1" 200 149
+INFO 2022-10-13 14:56:19,360 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:56:22,153 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:56:22,154 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 14:56:22,263 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 14:56:22,263 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013142857000001000047&method=alipay.trade.page.pay.return&total_amount=361.00&sign=BCeLu3jmF55oqCLT8HicsrWJ9aZREVoZO1xpcmegwnM1GN2RYDwcQYn0Pftd3OMZfQjpWFIDRwFRh5EUW7Sj%2BgKaDmi%2FfqcUtoPJ7UtWvX%2BSuMm%2FPB8ZyjsaCU%2BRUbSYyrq%2FTubFO4QKfeyCFlMvadhbRi4ExN932J8bSQQxLc%2BDq642ptGfDnjk%2BncBrP1CK78fkXDHACQDVQcLer%2BQqTqFfgxPqzvwRJDFuQ5WJQuJaXOPbXcsukJHDvI3li%2B1BLCHEKHKyc1zZerggb1aiekq%2BZxJvBoS08urfotg7sv3Zmk9JBmgn%2FvROBfpEywo8X%2FsJ7TdxflbZjsZcX03bQ%3D%3D&trade_no=2022101322001492890502221816&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2014%3A29%3A24 HTTP/1.1" 400 71
+INFO 2022-10-13 14:56:27,300 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:56:27,318 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 14:56:27,339 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 14:56:27,339 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013142857000001000047&method=alipay.trade.page.pay.return&total_amount=361.00&sign=BCeLu3jmF55oqCLT8HicsrWJ9aZREVoZO1xpcmegwnM1GN2RYDwcQYn0Pftd3OMZfQjpWFIDRwFRh5EUW7Sj%2BgKaDmi%2FfqcUtoPJ7UtWvX%2BSuMm%2FPB8ZyjsaCU%2BRUbSYyrq%2FTubFO4QKfeyCFlMvadhbRi4ExN932J8bSQQxLc%2BDq642ptGfDnjk%2BncBrP1CK78fkXDHACQDVQcLer%2BQqTqFfgxPqzvwRJDFuQ5WJQuJaXOPbXcsukJHDvI3li%2B1BLCHEKHKyc1zZerggb1aiekq%2BZxJvBoS08urfotg7sv3Zmk9JBmgn%2FvROBfpEywo8X%2FsJ7TdxflbZjsZcX03bQ%3D%3D&trade_no=2022101322001492890502221816&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2014%3A29%3A24 HTTP/1.1" 400 71
+INFO 2022-10-13 14:57:25,446 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:59:36,494 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 14:59:38,324 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 14:59:40,359 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:40,362 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 14:59:40,366 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:40,390 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 14:59:44,241 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:44,242 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:44,243 basehttp 161 "GET /course/chapters/?course=16 HTTP/1.1" 200 2
+INFO 2022-10-13 14:59:44,256 basehttp 161 "GET /course/16/ HTTP/1.1" 200 395
+INFO 2022-10-13 14:59:45,156 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 14:59:45,964 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:45,964 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:45,971 basehttp 161 "GET /cart/ HTTP/1.1" 200 212
+INFO 2022-10-13 14:59:46,774 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:46,777 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:46,783 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 14:59:46,784 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 14:59:50,626 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 14:59:50,635 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:50,638 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:50,643 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 14:59:52,125 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 14:59:52,133 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 14:59:52,136 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 14:59:52,137 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 14:59:53,753 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 14:59:53,865 basehttp 161 "GET /payments/alipay/?order_number=20221013145953000001000048 HTTP/1.1" 200 922
+INFO 2022-10-13 15:00:49,770 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:00:49,803 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 15:00:49,808 views 175 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 15:00:49,810 log 230 Internal Server Error: /payments/alipay/result/
+ERROR 2022-10-13 15:00:49,810 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013145953000001000048&method=alipay.trade.page.pay.return&total_amount=400.00&sign=rtCOMSi5yhlcLoRUtYpfcFztdu9VFVW4bIrkMRrMxh5vRvnF9iXW9ZUnC%2BLnzZsLtf1D0D2uBRNpLNlQC6vgUziqDu%2FxlYAbHex%2BIPwEs4OmCDoDKX6HqiJaneib%2F1Oic%2FoEOxQmuCckasxPWEfYsqchrXuAhvk%2BbKCWKGCKm1iON6cfMI%2Fp5ufuLkhHc5G72Gxl0oN6y2U%2Fm9kGOymHPEUJbMTfCNlO2%2BOFOrhr4e0%2BLo7LxnEwS3Y7QY0SRgSSOt8PSHgLA%2BVNDZ3P0cURDfjhlWGyDE0TI2u63crWz5tsjxaD8O3H%2Bl3g1mEMaXlgBnyf35ym2XuxTjwUOzb2MQ%3D%3D&trade_no=2022101322001492890502221705&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A00%3A45 HTTP/1.1" 500 59
+INFO 2022-10-13 15:01:36,740 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:01:38,241 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:01:38,244 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:04:34,245 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-13 15:04:36,709 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:04:37,622 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:04:37,625 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:05:01,258 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:05:01,298 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:07:04,123 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:07:04,137 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:07:04,157 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:07:04,179 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:07:05,354 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:07:05,356 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:07:05,356 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 15:07:05,363 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 15:07:06,212 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:07:06,618 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:07:07,959 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:07:07,959 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:07:07,971 basehttp 161 "GET /cart/ HTTP/1.1" 200 220
+INFO 2022-10-13 15:07:08,858 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:07:08,867 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:07:08,871 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:07:08,883 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 243
+INFO 2022-10-13 15:07:10,910 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:07:11,000 basehttp 161 "GET /payments/alipay/?order_number=20221013150710000001000049 HTTP/1.1" 200 924
+INFO 2022-10-13 15:07:41,373 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:07:56,232 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:07:56,239 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 15:07:56,356 views 175 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 15:07:56,359 log 230 Internal Server Error: /payments/alipay/result/
+ERROR 2022-10-13 15:07:56,360 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013150710000001000049&method=alipay.trade.page.pay.return&total_amount=566.00&sign=ALe0rEL46Dr6y5pLqw%2BzT6RvpkI8wIPdA620Kxm1VFUCd2n23A8rRRpZ9ZEew4AMLeRjAryjEDTlV6jUzoL30%2B9wxYMI9a0W3Ym5k%2BL8vnrayeiwXnoifTpGdPAggE6sCX7fBtGWsFHI2NrWI4pWedApBt%2BTQ6dY1bCVDMBBEi0aQcoTQe3ok2AWUqUH4szGiThg47YJWz%2BD%2BbFwnNNSnAZaDruWiqDHo6UQByXjO8rb6VMw3ie31yGxSq7z7EqDxr0JvdvxBA7B08Err1%2BCjcUC7S0%2Bq1tB2U0gbfGq3YUNUIHP6wy0BJxQ%2F7EhuO6y2c076Jh81nlU70RtJNC4lw%3D%3D&trade_no=2022101322001492890502221706&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A07%3A52 HTTP/1.1" 500 59
+INFO 2022-10-13 15:08:20,919 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:08:24,057 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:08:24,060 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:09:52,733 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:09:56,309 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:09:56,313 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:10:47,890 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:11:45,543 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:11:45,543 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:13:18,804 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 15:13:21,320 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:14:13,543 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:14:31,556 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:14:31,556 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:15:33,395 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:15:33,441 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:15:40,631 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:15:43,622 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:15:43,626 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:18:07,309 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 15:18:09,773 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:18:10,718 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:18:10,719 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:18:37,773 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013150710000001000049&method=alipay.trade.page.pay.return&total_amount=566.00&sign=ALe0rEL46Dr6y5pLqw%2BzT6RvpkI8wIPdA620Kxm1VFUCd2n23A8rRRpZ9ZEew4AMLeRjAryjEDTlV6jUzoL30%2B9wxYMI9a0W3Ym5k%2BL8vnrayeiwXnoifTpGdPAggE6sCX7fBtGWsFHI2NrWI4pWedApBt%2BTQ6dY1bCVDMBBEi0aQcoTQe3ok2AWUqUH4szGiThg47YJWz%2BD%2BbFwnNNSnAZaDruWiqDHo6UQByXjO8rb6VMw3ie31yGxSq7z7EqDxr0JvdvxBA7B08Err1%2BCjcUC7S0%2Bq1tB2U0gbfGq3YUNUIHP6wy0BJxQ%2F7EhuO6y2c076Jh81nlU70RtJNC4lw%3D%3D&trade_no=2022101322001492890502221706&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A07%3A52 HTTP/1.1" 200 148
+INFO 2022-10-13 15:18:44,005 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:19:55,573 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:19:55,577 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:19:55,581 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:19:55,603 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:19:56,758 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:19:56,761 basehttp 161 "GET /course/1/ HTTP/1.1" 200 438
+INFO 2022-10-13 15:19:56,761 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-13 15:19:56,778 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:19:57,620 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:19:59,829 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:19:59,831 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:19:59,846 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-13 15:20:01,465 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:20:01,465 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:20:01,472 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:20:01,476 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 15:20:05,594 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:20:05,705 basehttp 161 "GET /payments/alipay/?order_number=20221013152005000001000050 HTTP/1.1" 200 912
+INFO 2022-10-13 15:20:41,556 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:20:41,576 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 15:20:41,596 views 175 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 15:20:41,599 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000026A0CA65940>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 15:20:41,599 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 15:20:41,600 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013152005000001000050&method=alipay.trade.page.pay.return&total_amount=960.00&sign=pkBTm1A3l6a9lMh5GagagRe2XV%2FmSI5ZrQ79BIZEaYJxujVE%2BILCfbkvwe0YYichU7Jf%2BcWpkNutAGgl3PwVd6QJZUvec1HIj%2BpzoKve0RaKHYyK7Do6ByoA41GkpFoFFXPvcK2rmAFv9WdFDsAzY%2BM4ssTaBLNPtveh6X%2BHW8%2BDt5jCrXZGxlSC3XjVLTj3S9XXro4%2BKmS6LtHfeumawHU3HjBVdidkct7gHCxeZJEPq76bdRDyHcxusiCMRCPWEtQTNHAncdJO41d3I%2BjZ2S6NcbOIigovsr0Ks9HqvE9sQ92ONrYgKwzH8l7TOFGoZMWiggSHemFs%2FtprRArOTw%3D%3D&trade_no=2022101322001492890502221943&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A20%3A38 HTTP/1.1" 507 35
+INFO 2022-10-13 15:21:08,370 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:21:17,255 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:21:17,268 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:24:27,752 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:24:29,549 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:24:29,550 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:24:29,561 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:24:29,581 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:24:31,977 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:24:31,981 basehttp 161 "GET /course/15/ HTTP/1.1" 200 396
+INFO 2022-10-13 15:24:31,981 basehttp 161 "GET /course/chapters/?course=15 HTTP/1.1" 200 2
+INFO 2022-10-13 15:24:31,992 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:24:33,706 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:24:36,766 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:24:36,770 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:24:36,788 basehttp 161 "GET /cart/ HTTP/1.1" 200 213
+INFO 2022-10-13 15:24:39,703 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:24:39,716 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:24:39,718 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:24:39,719 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 230
+INFO 2022-10-13 15:24:54,933 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:24:54,940 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:24:54,941 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 230
+INFO 2022-10-13 15:24:54,946 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:27:07,326 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 230
+INFO 2022-10-13 15:27:07,334 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:27:07,344 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:27:07,347 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+WARNING 2022-10-13 15:27:36,797 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:27:36,798 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+WARNING 2022-10-13 15:27:50,408 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:27:50,409 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+INFO 2022-10-13 15:27:52,446 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:27:52,449 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:27:52,456 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:27:52,464 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 230
+INFO 2022-10-13 15:27:54,937 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:27:55,053 basehttp 161 "GET /payments/alipay/?order_number=20221013152754000001000053 HTTP/1.1" 200 916
+INFO 2022-10-13 15:28:03,893 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 34
+INFO 2022-10-13 15:28:03,893 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:03,896 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:28:03,901 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:05,453 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:05,453 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:05,454 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-13 15:28:06,747 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:06,747 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:06,747 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:28:06,775 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:28:08,981 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:08,982 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:08,986 basehttp 161 "GET /course/chapters/?course=16 HTTP/1.1" 200 2
+INFO 2022-10-13 15:28:08,986 basehttp 161 "GET /course/16/ HTTP/1.1" 200 395
+INFO 2022-10-13 15:28:09,786 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:28:10,771 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:10,771 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:10,776 basehttp 161 "GET /cart/ HTTP/1.1" 200 212
+INFO 2022-10-13 15:28:14,794 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:14,794 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:14,801 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:28:14,802 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 15:28:19,014 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:28:19,023 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 229
+INFO 2022-10-13 15:28:19,024 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:28:19,035 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+WARNING 2022-10-13 15:28:23,520 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:28:23,521 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+INFO 2022-10-13 15:30:43,229 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-13 15:30:45,006 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-10-13 15:30:45,815 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:30:45,815 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+INFO 2022-10-13 15:31:04,019 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:31:04,139 basehttp 161 "GET /payments/alipay/?order_number=20221013153104000001000056 HTTP/1.1" 200 914
+INFO 2022-10-13 15:31:37,257 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\serializers.py changed, reloading.
+INFO 2022-10-13 15:31:39,022 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-10-13 15:31:39,575 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:31:39,575 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+WARNING 2022-10-13 15:31:39,874 log 230 Bad Request: /order/
+WARNING 2022-10-13 15:31:39,875 basehttp 161 "POST /order/ HTTP/1.1" 400 37
+INFO 2022-10-13 15:31:55,895 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:31:55,895 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:31:55,898 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:31:55,923 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:31:56,801 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:31:56,802 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:31:56,802 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-13 15:31:56,804 basehttp 161 "GET /course/1/ HTTP/1.1" 200 438
+INFO 2022-10-13 15:31:57,923 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:31:58,526 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:31:58,526 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:31:58,532 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-13 15:31:59,792 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:31:59,795 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:31:59,800 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:31:59,804 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 15:32:07,284 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:32:07,291 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:32:07,297 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:32:07,298 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 15:32:09,527 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:32:09,529 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:32:09,537 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:32:09,555 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 15:32:10,728 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:32:10,734 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:32:10,735 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:32:10,740 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 15:32:15,931 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:32:16,044 basehttp 161 "GET /payments/alipay/?order_number=20221013153215000001000059 HTTP/1.1" 200 921
+INFO 2022-10-13 15:33:13,324 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:33:13,344 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:33:13,373 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 200 149
+INFO 2022-10-13 15:34:49,315 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:34:49,328 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:34:49,350 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:34:49,350 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:34:52,969 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:34:52,989 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:34:53,007 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:34:53,008 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:34:56,429 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:34:56,449 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:34:56,468 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:34:56,468 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:35:02,251 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:02,271 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:35:02,290 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:35:02,290 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:35:12,556 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:12,577 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:35:12,595 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:35:12,595 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:35:16,009 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:16,030 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:35:16,049 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:35:16,049 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:35:19,781 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:19,801 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:35:19,819 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:35:19,820 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+INFO 2022-10-13 15:35:23,259 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:23,294 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 15:35:23,297 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 15:35:23,298 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153215000001000059&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=hk20LmMcccoLQAEPtJWM8pVyrWpd3bvfloQLHYS%2FZeWE1XJP5zdu0lYoZJ9CGm6aDB74CYLYAnIlj7PbcFPzjK9nO6DlsWLicyIOabcRPmRG14JBpvvXo%2FeWx2HybUMwJrNKuEr0y%2FIQH8Mis9w3WL8A2%2Bx1mqc1YLlhaFdM%2B9s0adShx9NmOWgiJop7y8Bm7IQjJ9UPTE5Hqlb1BaZR7tiQfyLLKeij%2BF9HwdpY1PWaH2McKIB6e1cJkG2MjvNGW1iBzSvX7ZC1jQQZQPPs4eJpTB854%2FJTjEVvYlj70hqKTyDmutBdDACjfHDgspZPQvdW2g%2FuwGFz279JcGWing%3D%3D&trade_no=2022101322001492890502221944&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A33%3A28 HTTP/1.1" 400 71
+WARNING 2022-10-13 15:35:23,880 log 230 Not Found: /
+WARNING 2022-10-13 15:35:23,880 basehttp 161 "GET / HTTP/1.1" 404 3410
+WARNING 2022-10-13 15:35:23,977 log 230 Not Found: /favicon.ico
+WARNING 2022-10-13 15:35:23,978 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 3461
+INFO 2022-10-13 15:35:26,766 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:26,778 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-13 15:35:26,778 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:28,003 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:28,003 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:28,005 basehttp 161 "GET /cart/ HTTP/1.1" 200 2
+INFO 2022-10-13 15:35:29,198 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:29,198 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 15:35:29,199 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:29,220 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 15:35:30,164 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:30,166 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:30,168 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 15:35:30,168 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 15:35:31,464 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 15:35:33,028 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:33,029 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:33,033 basehttp 161 "GET /cart/ HTTP/1.1" 200 220
+INFO 2022-10-13 15:35:34,999 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:35,001 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:35,007 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:35:35,011 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 243
+INFO 2022-10-13 15:35:40,547 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:35:40,556 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 243
+INFO 2022-10-13 15:35:40,558 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:35:40,567 basehttp 161 "GET /coupon/ HTTP/1.1" 200 343
+INFO 2022-10-13 15:35:45,024 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 15:35:45,073 basehttp 161 "GET /payments/alipay/?order_number=20221013153545000001000060 HTTP/1.1" 200 914
+INFO 2022-10-13 15:36:23,327 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:36:23,347 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:36:23,376 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153545000001000060&method=alipay.trade.page.pay.return&total_amount=556.00&sign=ITj0E9PeUXJKf78EaemShiIg%2FudryoV3kqor99Ov7hU0%2BF55olkBaveQqLF2y4Gy%2B54OcA25SwchA8K9td9iNXRrWlXNHUxjfmnOXjdmVZMtKldg2FbQagQDEkOfZUJ1dHG7%2BCkTOcFbcpjapjwYPpBGidEm55D3AFEeUrWJBpQP8b37iQz9Rr3tNFUgZ%2B56x24z9TTFwVYUAd2lrSnqoYWsj%2BUfSITSNZBzgzPGSPeMMkH0opJ3SoLuly%2BUl7NkbS1frs%2FTs2S1KM0MIfjXM%2FECyWrnWXS%2FtU04OznSJOgVd66BSsRq5%2Fhqr50w%2Bz1e99MdeSIMM4i0pTCHj8%2Fy9A%3D%3D&trade_no=2022101322001492890502221945&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2015%3A36%3A19 HTTP/1.1" 200 149
+INFO 2022-10-13 15:41:01,789 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 15:41:01,790 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 15:41:01,790 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 15:41:01,794 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 15:57:55,665 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 15:57:57,840 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 15:58:02,822 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 15:58:04,618 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:14:04,445 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\payments\views.py changed, reloading.
+INFO 2022-10-13 16:14:06,426 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:15:55,233 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:15:55,235 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 16:15:55,236 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 16:15:55,237 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:15:57,016 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:15:57,016 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:16:16,079 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:16:16,079 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:18:04,267 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\user\serializers.py changed, reloading.
+INFO 2022-10-13 16:18:06,026 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:19:04,122 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\order\models.py changed, reloading.
+INFO 2022-10-13 16:19:05,938 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:19:42,551 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\user\views.py changed, reloading.
+INFO 2022-10-13 16:19:44,364 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:19:49,344 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\user\views.py changed, reloading.
+INFO 2022-10-13 16:19:51,127 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:20:08,758 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\apps\user\urls.py changed, reloading.
+INFO 2022-10-13 16:20:10,544 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-13 16:20:35,652 basehttp 161 "OPTIONS /user/order/ HTTP/1.1" 200 0
+INFO 2022-10-13 16:20:35,671 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:20:35,672 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:20:35,730 basehttp 161 "GET /user/order/ HTTP/1.1" 200 6386
+INFO 2022-10-13 16:21:46,365 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:21:46,368 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:21:46,427 basehttp 161 "GET /user/order/ HTTP/1.1" 200 6386
+INFO 2022-10-13 16:31:09,268 basehttp 161 "GET /payments/alipay/?order_number=20221013153104000001000056 HTTP/1.1" 200 910
+INFO 2022-10-13 16:31:58,274 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:31:58,293 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:31:58,322 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153104000001000056&method=alipay.trade.page.pay.return&total_amount=399.90&sign=ApwaXTtHgQpCOGm5i03z%2F1aDBRfzERmoaS9Z7HK7r3ouSnsZUULb%2BKt%2FFKCExIW44w69bHdnkkPn8SMmZCTY3Jb4zmtkJ7MwzJoYKc%2Btvy%2Bb0eDuIEODx%2Bped7gurcyqKE%2Bl%2F5ezELON5%2BNk8C5WC2TVFaKFwGR7yvq5afVbdz0eGxLhoq2Jvk8ZLg67rutu%2BwrgSO%2FxeB6H2M7E8iudIKodz5A5%2FJkne3yDJJ5ygZF3vaKOttdCH%2F9UuZ4ST0iAjloZEW9VKww915XAngikpcRfliK81s8gidQ01x%2Fww5W9ABzUKFBRvOLCJe55TQnamArEAiThh5m%2FSz1pyleZNA%3D%3D&trade_no=2022101322001492890502222105&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A31%3A54 HTTP/1.1" 200 149
+INFO 2022-10-13 16:32:28,435 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:32:28,436 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+WARNING 2022-10-13 16:32:28,472 log 230 Bad Request: /payments/alipay/result/
+WARNING 2022-10-13 16:32:28,472 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013153104000001000056&method=alipay.trade.page.pay.return&total_amount=399.90&sign=ApwaXTtHgQpCOGm5i03z%2F1aDBRfzERmoaS9Z7HK7r3ouSnsZUULb%2BKt%2FFKCExIW44w69bHdnkkPn8SMmZCTY3Jb4zmtkJ7MwzJoYKc%2Btvy%2Bb0eDuIEODx%2Bped7gurcyqKE%2Bl%2F5ezELON5%2BNk8C5WC2TVFaKFwGR7yvq5afVbdz0eGxLhoq2Jvk8ZLg67rutu%2BwrgSO%2FxeB6H2M7E8iudIKodz5A5%2FJkne3yDJJ5ygZF3vaKOttdCH%2F9UuZ4ST0iAjloZEW9VKww915XAngikpcRfliK81s8gidQ01x%2Fww5W9ABzUKFBRvOLCJe55TQnamArEAiThh5m%2FSz1pyleZNA%3D%3D&trade_no=2022101322001492890502222105&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A31%3A54 HTTP/1.1" 400 71
+INFO 2022-10-13 16:32:36,820 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:32:36,831 basehttp 161 "GET /banner/ HTTP/1.1" 200 295
+INFO 2022-10-13 16:32:36,832 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:32:39,485 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:32:39,486 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:32:39,534 basehttp 161 "GET /user/order/ HTTP/1.1" 200 6386
+INFO 2022-10-13 16:33:07,506 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:33:07,506 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:33:07,571 basehttp 161 "GET /user/order/ HTTP/1.1" 200 6386
+INFO 2022-10-13 16:33:08,074 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:33:08,078 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 16:33:08,083 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:33:08,102 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 16:33:10,936 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:33:10,936 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:33:10,941 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 16:33:10,941 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 16:33:12,164 basehttp 161 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2022-10-13 16:33:12,177 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 16:33:12,888 basehttp 161 "OPTIONS /cart HTTP/1.1" 200 0
+INFO 2022-10-13 16:33:12,891 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:33:12,891 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:33:12,900 basehttp 161 "GET /cart/ HTTP/1.1" 200 220
+INFO 2022-10-13 16:33:28,942 basehttp 161 "OPTIONS /coupon/ HTTP/1.1" 200 0
+INFO 2022-10-13 16:33:28,942 basehttp 161 "OPTIONS /cart/order/ HTTP/1.1" 200 0
+INFO 2022-10-13 16:33:28,949 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:33:28,949 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:33:28,961 basehttp 161 "GET /coupon/ HTTP/1.1" 200 676
+INFO 2022-10-13 16:33:28,963 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 243
+INFO 2022-10-13 16:33:33,379 basehttp 161 "OPTIONS /order/ HTTP/1.1" 200 0
+INFO 2022-10-13 16:33:33,423 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 16:33:33,469 basehttp 161 "GET /payments/alipay/?order_number=20221013163333000001000061 HTTP/1.1" 200 916
+INFO 2022-10-13 16:34:13,931 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:34:13,951 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:34:13,982 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163333000001000061&method=alipay.trade.page.pay.return&total_amount=509.40&sign=rCRAiUrXeTCbUCOYuwcXms7eekDDHF01aglZu7GxZ38EBrbAWcQu4TrjRNHWb4X7FALEfhWQARXQBf0G%2Fz%2F9bXA%2BZivDR8eULnjlRD7vxdval8hi33z6pAL9zK9xu%2BLw5hyI10L%2Bnud79d19bBlFMAsmYffzr04qLBK2%2BIUgj0eqPQG9tya5O9VvQXjLP8Y3%2BpA8nkcfI6zA9o5BfUX6inCTecDcSzOHw5mCE7koY%2BhbfKg0ksTer0oxM11SzNpDTdSlHGacKBKZlCwq8SkkaPQkhQ2jh8Zkf4tYuCXNDF7YPUAqZZYLaZ0Z2BtasZciu0kuPTNTyu49y7rtwcx%2BCg%3D%3D&trade_no=2022101322001492890502221707&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A34%3A10 HTTP/1.1" 200 149
+INFO 2022-10-13 16:34:27,052 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 16:34:27,055 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:34:27,055 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:34:27,081 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 16:34:29,133 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:34:29,136 basehttp 161 "GET /course/2/ HTTP/1.1" 200 417
+INFO 2022-10-13 16:34:29,137 basehttp 161 "GET /course/chapters/?course=2 HTTP/1.1" 200 2
+INFO 2022-10-13 16:34:29,149 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:34:30,155 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 16:34:32,245 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:34:32,245 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:34:32,252 basehttp 161 "GET /cart/ HTTP/1.1" 200 220
+INFO 2022-10-13 16:34:33,987 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:34:33,987 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:34:33,997 basehttp 161 "GET /coupon/ HTTP/1.1" 200 511
+INFO 2022-10-13 16:34:33,998 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 243
+INFO 2022-10-13 16:35:04,060 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 16:35:04,109 basehttp 161 "GET /payments/alipay/?order_number=20221013163504000001000062 HTTP/1.1" 200 914
+INFO 2022-10-13 16:35:38,753 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:38,773 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:38,796 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:38,799 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E97F4E0>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:38,799 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:38,800 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:42,200 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:42,219 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:42,242 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:42,244 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E75C6D8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:42,245 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:42,245 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:45,650 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:45,670 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:45,694 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:45,695 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E62B438>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:45,696 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:45,696 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:49,100 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:49,120 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:49,145 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:49,147 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E75C6D8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:49,147 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:49,148 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:52,551 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:52,571 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:52,598 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:52,600 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E816B70>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:52,600 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:52,601 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:56,002 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:56,023 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:56,045 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:56,047 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E7D67B8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:56,047 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:56,048 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:35:59,945 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:35:59,948 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:35:59,972 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:35:59,974 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E94DEB8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:35:59,975 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:35:59,975 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:36:03,765 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:36:03,786 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:36:03,809 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:36:03,811 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E9444A8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:36:03,811 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:36:03,812 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:36:07,474 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:36:07,495 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:36:07,520 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:36:07,522 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E738940>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:36:07,522 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:36:07,523 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163504000001000062&method=alipay.trade.page.pay.return&total_amount=516.00&sign=pWMTHaQfnxoJLdjXbX1ymAFwCT19ijtCF0eGqbw9squqxalMiLYceoMfki4cKoz4oOEdgZQBMQU1eMyHb%2FpVGvt17%2FwMWsptgqytoK2bjzATTe0bie3RsV09mmbk1nSoY63AuQN6ET4ovm72wlh7A2JDRHOAY0Dfb3CblvSnlPunpsNeTuSvRHurGmPhCMf4eCjHmFC%2FYZ7%2BmxB7Klv68oaKQyCcgkaI6QoVOPCRT8a727HdRztPFkpZ%2Fv4t%2B0FDrMGbt6OW7aQcr8SN1WR3LpXcmrHTuTatKWHi86nMkgJhTrQwC%2F87e4UAnfN1JiIy78ATeoLZ%2BcnJD2iBP5pDhw%3D%3D&trade_no=2022101322001492890502222106&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A35%3A54 HTTP/1.1" 507 35
+INFO 2022-10-13 16:39:28,431 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 16:39:28,433 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:39:28,443 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:39:28,459 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 16:39:29,232 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:39:29,233 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:39:29,234 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-13 16:39:29,235 basehttp 161 "GET /course/1/ HTTP/1.1" 200 438
+INFO 2022-10-13 16:39:30,167 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 16:39:32,454 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:39:32,455 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:39:32,461 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-13 16:39:33,659 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:39:33,668 basehttp 161 "GET /coupon/ HTTP/1.1" 200 334
+INFO 2022-10-13 16:39:33,670 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:39:33,672 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 16:39:36,669 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 16:39:36,716 basehttp 161 "GET /payments/alipay/?order_number=20221013163936000001000063 HTTP/1.1" 200 911
+INFO 2022-10-13 16:40:33,775 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:40:33,795 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+ERROR 2022-10-13 16:40:33,816 views 176 订单结果处理出现故障!无法修改订单相关记录的状态
+ERROR 2022-10-13 16:40:33,818 exceptions 27 [<payments.views.AliPayResultAPIView object at 0x0000018E3E91AAC8>] An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+ERROR 2022-10-13 16:40:33,818 log 230 Insufficient Storage: /payments/alipay/result/
+ERROR 2022-10-13 16:40:33,819 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013163936000001000063&method=alipay.trade.page.pay.return&total_amount=1000.00&sign=W%2F7qdash0k%2BGRekYmrKpLsS4l1ZdNjpBzwJkwoxQL%2BHs9nEHXS5gCPL5P88TJu9SwOfmmliSCjSyFXwbghiCOTMGdAZBqwbuSDEg0CtIfscwlkywVRNl%2FDydfXNYE%2BKhbu5WL74QDZpAyQtBQWMYRDVVNfTO3%2BMbHzjEuUvf2YOt0%2BHyNreU%2BXA5xy1gGfmlMIRhFfufCpsmIc9jmkkvojyyabD0Wt7pZzo%2BjiWPdbm7dPQcGSFGcp%2FeMmjRcy5M8YgDwpxvIVz7YADs%2Bo8S8yMGTyTxZAJTQxnFz76%2FK9seQR%2FvNDeLHzQ%2FBaZFooMO%2FVWJDSPg0Up5bNpRJ8FBGA%3D%3D&trade_no=2022101322001492890502222107&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A40%3A49 HTTP/1.1" 507 35
+INFO 2022-10-13 16:40:58,170 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:40:58,171 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:40:58,171 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 16:40:58,212 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 16:40:59,570 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:40:59,573 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:40:59,574 basehttp 161 "GET /course/1/ HTTP/1.1" 200 438
+INFO 2022-10-13 16:40:59,583 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-13 16:41:01,132 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 16:41:02,148 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:41:02,153 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-13 16:41:02,169 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:41:04,002 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:41:04,003 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:41:04,013 basehttp 161 "GET /coupon/ HTTP/1.1" 200 334
+INFO 2022-10-13 16:41:04,018 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 16:41:28,142 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 16:41:28,193 basehttp 161 "GET /payments/alipay/?order_number=20221013164128000001000064 HTTP/1.1" 200 926
+INFO 2022-10-13 16:42:12,315 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:42:12,334 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:42:12,369 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013164128000001000064&method=alipay.trade.page.pay.return&total_amount=809.00&sign=rKT6P19Q%2B%2BCK1WYnDTwuwoqW1LYI3YOG5Z4V2HuiPuN1SX9dB7N4W4btFZUwLWtooWHwlO1KeKgHBMRj26Fqo6WmGDYx4J2ldfEHDLbz58PW16bhmSZc0iidkQrL%2Ba72rwJUAQvC26DorbyVgvZqFh1jvJTsAL%2BWXviwQ%2B%2BH5HH5%2FSYsxMrxftVAvGdC%2FTmvT2TTLXu0WbtZSNCWNVsIaxgBPDkyStdnLxGOG%2FRE5DIVLMZPDGwCP0Nf5PRN0AauD0HxX4sftfeBz56sVDUNcdvF5K9Thal3I0x8YJymtVTD4yFwE9lPDzZwRsNPfiPI%2B7iOE7CqtTx%2FTb4RcrEvqA%3D%3D&trade_no=2022101322001492890502221947&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A42%3A27 HTTP/1.1" 200 148
+INFO 2022-10-13 16:43:48,249 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:43:48,250 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:43:48,251 basehttp 161 "GET /course/category/ HTTP/1.1" 200 297
+INFO 2022-10-13 16:43:48,277 basehttp 161 "GET /course/?page=1&size=5&ordering=id HTTP/1.1" 200 2281
+INFO 2022-10-13 16:43:49,505 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:43:49,505 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:43:49,508 basehttp 161 "GET /course/1/ HTTP/1.1" 200 438
+INFO 2022-10-13 16:43:49,509 basehttp 161 "GET /course/chapters/?course=1 HTTP/1.1" 200 2
+INFO 2022-10-13 16:43:50,386 basehttp 161 "POST /cart/ HTTP/1.1" 200 55
+INFO 2022-10-13 16:43:51,518 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:43:51,518 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:43:51,524 basehttp 161 "GET /cart/ HTTP/1.1" 200 403
+INFO 2022-10-13 16:43:52,381 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:43:52,386 basehttp 161 "GET /coupon/ HTTP/1.1" 200 505
+INFO 2022-10-13 16:43:52,391 basehttp 161 "GET /cart/order/ HTTP/1.1" 200 263
+INFO 2022-10-13 16:43:52,392 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:43:57,205 basehttp 161 "POST /order/ HTTP/1.1" 201 53
+INFO 2022-10-13 16:43:57,252 basehttp 161 "GET /payments/alipay/?order_number=20221013164357000001000065 HTTP/1.1" 200 914
+INFO 2022-10-13 16:44:40,195 basehttp 161 "GET /nav/header/ HTTP/1.1" 200 223
+INFO 2022-10-13 16:44:40,215 basehttp 161 "GET /nav/footer/ HTTP/1.1" 200 245
+INFO 2022-10-13 16:44:40,244 basehttp 161 "GET /payments/alipay/result/?charset=utf-8&out_trade_no=20221013164357000001000065&method=alipay.trade.page.pay.return&total_amount=960.00&sign=N7wRxg45ZAH6m56%2BFkwS2Z%2BX5FjriXc%2BzLo4FZTwUYcLQ3v4O0bU8bXajSUL7XW3xCJ0kuHZ8zekTtl7XWBhkeZHFLwmGpUCdOXBwmZxzIZ6pSWW9Tj2x1JoQTQY2UuNpIIT7nCgi45vFt0kuoq24B7Jfg2sjVUW7UcJunKF5eRDffDPrYcAOvSrT3kL0SU0glTePxwFdlQ49p6EEsGuE4Cl8vypQ6Sj9KIroY5ZcEEcDTLqeB4sp6Ybu0MF3BIESPXVf1q%2BVJp%2BbJjtUNi9X%2FWF3Y7hXgsckaqvxLZZVSYxYyN%2BgQWTII%2B8txuURuEVPGGekvxcXE2Shua2trhkkg%3D%3D&trade_no=2022101322001492890502221948&auth_app_id=2021000121679669&version=1.0&app_id=2021000121679669&sign_type=RSA2&seller_id=2088621993720045&timestamp=2022-10-13%2016%3A44%3A36 HTTP/1.1" 200 148
+INFO 2022-10-14 19:40:06,339 autoreload 251 C:\Users\LP\Desktop\workon_env\djangoproject\Lib\site-packages\importlib_metadata\_itertools.py changed, reloading.
+INFO 2022-10-14 19:40:08,525 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-14 19:48:42,074 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\dev.py changed, reloading.
+INFO 2022-10-14 19:48:43,926 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-14 20:18:05,229 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-14 20:21:01,968 autoreload 251 C:\Users\LP\Desktop\luffy\luffymall\luffymall\settings\constants.py changed, reloading.
+INFO 2022-10-14 20:21:03,800 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-14 23:08:00,033 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-10-15 00:46:30,696 autoreload 637 Watching for file changes with StatReloader

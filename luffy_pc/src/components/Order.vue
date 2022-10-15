@@ -89,7 +89,7 @@
                                                                         alt=""></span>
           </el-col>
           <el-col :span="8" class="count">实付款： <span>¥{{(real_total - credit / credit_to_money ).toFixed(2)}}</span></el-col>
-          <el-col :span="4" class="cart-pay"><span @click="payHander">立即支付</span></el-col>
+          <el-col :span="4" class="cart-pay"><span @click="payHander" >立即支付</span></el-col>
         </el-row>
       </div>
     </div>
@@ -184,6 +184,17 @@ export default {
       }).then(response => {
         // 订单生成成功！
         this.$message.success("订单生成成功！即将跳转到支付页面，请不要眨眼！")
+        this.$axios.get(`${this.$settings.HOST}/payments/alipay/`,{
+                  params:{
+                      order_number: response.data.order_number,
+                  }
+              }).then(response=>{
+                  // 返回支付链接地址
+                  location.href=response.data;
+
+              }).catch(error=>{
+                  this.$message.error(error.response.data.message);
+              })
       }).catch(err => {
 
         this.$message.error(err.response.data[0]);

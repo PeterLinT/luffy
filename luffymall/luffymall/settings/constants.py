@@ -10,3 +10,5 @@ SERVER_IMAGE_DOMAIN = 'http://api.peterl.top:8000'
 
 # 积分和现金的兑换比例[兑换1元的积分数量]
 CREDIT_MONEY = 10
+
+ORDER_TIMEOUT = 12 * 60 * 60

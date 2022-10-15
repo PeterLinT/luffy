@@ -26,7 +26,7 @@
                   <el-submenu index="2">
                     <template slot="title"><img src="/static/image/logo@2x.png" alt=""></template>
                     <el-menu-item index="2-1">我的账户</el-menu-item>
-                    <el-menu-item index="2-2">我的订单</el-menu-item>
+                    <el-menu-item index="2-2"><router-link to="/user/order">我的订单</router-link></el-menu-item>
                     <el-menu-item index="2-3">我的优惠卷</el-menu-item>
                     <el-menu-item index="2-3"><span @click="logoutHander">退出登录</span></el-menu-item>
                   </el-submenu>

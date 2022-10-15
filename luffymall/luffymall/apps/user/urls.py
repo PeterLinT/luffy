@@ -6,4 +6,5 @@ from rest_framework_jwt.views import obtain_jwt_token
 urlpatterns = [
     path(r'login/', obtain_jwt_token),
     path(r"register/", views.RegisterView.as_view()),
+path("order/", views.UserOrderAPIView.as_view() ),
 ]
