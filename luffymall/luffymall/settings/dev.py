@@ -14,7 +14,10 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+# 把apps目录下面所有的子应用设置为可以直接导包，那就需要把apps设置为默认导包路径
+import sys
 
+sys.path.insert(0, os.path.join(BASE_DIR, 'apps'))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
@@ -25,10 +28,19 @@ SECRET_KEY = 'django-insecure-0kaf-8y15ox6x-1iuk)uu)y^zk)8mp8e@qq2ke00uf*+%q#4pn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    'api.peterl.top',
+    'luffy.peterl.top',
+    '127.0.0.1'
+]
 
 # Application definition
+# CORS组的配置信息
+# CORS_ORIGIN_WHITELIST = (
+#     'https://luffy.luffycity.top:8080',
+# )
+CORS_ORIGIN_ALLOW_ALL = True
+CORS_ALLOW_CREDENTIALS = True  # 允许ajax跨域请求时携带cookie
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -37,9 +49,32 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # django三方
+    'django_filters',
+    'ckeditor',  # 富文本编辑器
+    'ckeditor_uploader',  # 富文本编辑器上传图片模块
+    # cors跨域组件
+    'corsheaders',
+    # drf框架
+    'rest_framework',
+    # 子应用
+    'home',
+    'user',
+    'course',
+    'cart',
+    'order',
+    'coupon',
+    'payments',
+    # xadmin,
+    'xadmin',
+    'crispy_forms',
+    'reversion',
+
 ]
 
 MIDDLEWARE = [
+    # cors跨域组件的中间件
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -70,7 +105,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'luffymall.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
@@ -84,7 +118,6 @@ DATABASES = {
         "NAME": "luffy",
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
@@ -104,32 +137,41 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-Hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
-
+USE_TZ = False
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
+
+# 访问静态文件的url地址前缀
 STATIC_URL = '/static/'
+# 设置django的静态文件目录
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static")
+]
+
+# 项目中存储上传文件的根目录[暂时配置]，注意，uploads目录需要手动创建否则上传文件时报错
+MEDIA_ROOT = os.path.join(BASE_DIR, "uploads")
+# 访问上传文件的url地址前缀
+MEDIA_URL = "/media/"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-#日志设置
+# 日志设置
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -170,12 +212,78 @@ LOGGING = {
     'loggers': {
         'django': {
             'handlers': ['console', 'file'],
-            'propagate': True, # 是否让日志信息继续冒泡给其他的日志处理系统
+            'propagate': True,  # 是否让日志信息继续冒泡给其他的日志处理系统
         },
     }
 }
 
 REST_FRAMEWORK = {
     # 异常处理
-    'EXCEPTION_HANDLER': 'luffyapi.utils.exceptions.custom_exception_handler',
+    'EXCEPTION_HANDLER': 'luffymall.utils.exceptions.custom_exception_handler',
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.authentication.BasicAuthentication',
+    ),
+    'DEFAULT_FILTER_BACKENDS': ('django_filters.rest_framework.DjangoFilterBackend',),  # 全局默认配置过滤
+
+}
+import datetime
+
+JWT_AUTH = {
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(days=7),
+    'JWT_RESPONSE_PAYLOAD_HANDLER': 'user.utils.jwt_response_payload_handler',
+
+}
+AUTHENTICATION_BACKENDS = [
+    'user.utils.UsernameMobileAuthBackend',
+]
+# 注册自定义用户模型. 值的格式必须是：‘应用名，模型类名’
+AUTH_USER_MODEL = 'user.User'
+CKEDITOR_CONFIGS = {
+    'default': {
+        'toolbar': 'full',  # 工具条功能
+        'height': 300,  # 编辑器高度
+        # 'width': 300,     # 编辑器宽
+    },
+}
+CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，留空则调用django的文件上传功能
+
+CACHES = {
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        # 项目上线时,需要调整这里的路径
+        "LOCATION": "redis://127.0.0.1:6379/0",
+
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    "session": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    "cart": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/3",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+}
+
+ALIAPY_CONFIG = {
+    # "gateway_url": "https://openapi.alipay.com/gateway.do?", # 真实支付宝网关地址
+    "gateway_url": "https://openapi.alipaydev.com/gateway.do?", # 沙箱支付宝网关地址
+    "appid": "2021000121679669",
+    "app_notify_url": None,
+    "app_private_key_path": os.path.join(BASE_DIR, "apps/payments/key/app_private_key.pem"),
+    "alipay_public_key_path": os.path.join(BASE_DIR, "apps/payments/key/alipay_public_key.pem"),
+    "sign_type": "RSA2",
+    "debug": False,
+    "return_url": "http://luffy.peterl.top:8080/payments/result", # 同步回调地址
+    "notify_url": "http://api.peterl.top:8000/payments/result", # 异步结果通知
 }

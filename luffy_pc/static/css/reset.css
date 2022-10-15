@@ -24,7 +24,7 @@ table{
 }
 
 [class*=" el-icon-"], [class^=el-icon-]{
-  font-size: 50px;
+  font-size: 0px;
 }
 .el-carousel__arrow{
   width: 120px;
@@ -48,4 +48,10 @@ table{
 .el-checkbox__inner::after{
   height: 9px;
   width: 5px;
+}
+.el-menu--horizontal>.el-submenu .el-submenu__icon-arrow {
+  position: static;
+  vertical-align: middle;
+  margin-left: -25px;
+  margin-top: -3px;
 }
